@@ -1,4 +1,5 @@
 # Contributors
+- [Sneha Pujari](https://github.com/sneha-pujari)
 - [Madhuvanthi Janarthanam](https://github.com/madhuvanthi2k)
 - [Nitin Dixit](https://github.com/nitinajaydixit)
 - [Brad Wong](https://github.com/bradmwong)
